@@ -17,7 +17,7 @@ namespace SSDMiniProject
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            // Configure your SQL Server connection string here
+            // Configure your SQL Server connection string here/ in real life i will be in appsettings.json file
             optionsBuilder.UseSqlServer("Server=LAPTOP-8U7GLB0P;Database=PasswordManager;Trusted_connection=True;TrustServerCertificate=true");
         }
     }
