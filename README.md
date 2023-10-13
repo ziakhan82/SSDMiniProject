@@ -16,9 +16,9 @@
 - run this command  update-database
 - build and run the project
 
-  3. **Log In:**
+ 3.**Log In:**
 - The application will prompt you to enter your master password.
-- If you're running the application for the first time, you have create a Strong Master Passwrod and it will ask you to confirm your master password.
+- If you're running the application for the first time, you have to create a Strong Master Passwrod and it will ask you to confirm your master password.
 - For subsequent logins, enter your master password.
 
   4. **Use the Password Manager:**
